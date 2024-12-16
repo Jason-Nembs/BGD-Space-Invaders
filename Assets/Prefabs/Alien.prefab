@@ -145,3 +145,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   destructionSFX: {fileID: 8300000, guid: 11090f2050b424347995f46b9968bfdc, type: 3}
+  missilePrefab: {fileID: 0}
+  missileDropIntervalMin: 2
+  missileDropIntervalMax: 5
