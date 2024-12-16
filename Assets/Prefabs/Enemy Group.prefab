@@ -57,6 +57,7 @@ MonoBehaviour:
   moveDistance: 1
   timeStep: 1
   countdown: 0
+  isUsingCountdown: 1
 --- !u!1001 &2369062776067507642
 PrefabInstance:
   m_ObjectHideFlags: 0
